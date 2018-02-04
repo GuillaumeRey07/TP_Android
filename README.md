@@ -1,7 +1,5 @@
 # TP_Android_FireBase
 
-One Paragraph of project description goes here
-
 ## Functionalities
 
 ### Chat based application :
@@ -24,7 +22,7 @@ One Paragraph of project description goes here
 
 -Open with Android Studio
 
-## Authors
+## Author
 
 -Guillaume Rey
 
