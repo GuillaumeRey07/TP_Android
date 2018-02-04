@@ -5,7 +5,7 @@ One Paragraph of project description goes here
 ## Functionalities
 
 -A chat based application :
-![alt text](screenshot/hello.png)
+![alt text](/TP_Android/screenshot/hello.PNG)
 
 -Connection :
 
