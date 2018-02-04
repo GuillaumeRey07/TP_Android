@@ -4,14 +4,14 @@ One Paragraph of project description goes here
 
 ## Functionalities
 
--A chat based application :
+# Chat based application :
 ![alt text](/screenshot/hello.PNG)
 
--Connection :
+# Connection :
 
--Delete message :
+# Delete message :
 
--Logout :
+# Logout :
 
 ### Prerequisites
 
