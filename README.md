@@ -4,20 +4,23 @@ One Paragraph of project description goes here
 
 ## Functionalities
 
-# Chat based application :
+### Chat based application :
 ![alt text](/screenshot/hello.PNG)
 
-# Connection :
+### Connection :
+![alt text](/screenshot/connection.PNG)
 
-# Delete message :
+### Delete message :
+![alt text](/screenshot/delete.PNG)
 
-# Logout :
+### Logout :
+![alt text](/screenshot/logout.PNG)
 
-### Prerequisites
+## Prerequisites
 
 -Android Studio
 
-### Installing
+## Installing
 
 -Open with Android Studio
 
