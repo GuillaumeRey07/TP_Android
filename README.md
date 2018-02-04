@@ -4,6 +4,14 @@ One Paragraph of project description goes here
 
 ## Functionalities
 
+-A chat based application :
+![alt text](https://www.noelshack.com/2018-05-7-1517763334-hello.png)
+
+-Connection :
+
+-Delete message :
+
+-Logout :
 
 ### Prerequisites
 
@@ -16,10 +24,6 @@ One Paragraph of project description goes here
 ## Authors
 
 -Guillaume Rey
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
