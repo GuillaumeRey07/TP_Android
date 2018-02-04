@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="name_picker">Choissisez votre nom</string>
+    <string name="choix">Faite un choix</string>
+    <string-array name="popup" translatable="true">
+        <item><string name="sup">Supprimer</string></item>
+    </string-array>
+</resources>
