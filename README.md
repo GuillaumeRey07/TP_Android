@@ -5,7 +5,7 @@ One Paragraph of project description goes here
 ## Functionalities
 
 -A chat based application :
-![alt text](https://www.noelshack.com/2018-05-7-1517763334-hello.png)
+![alt text](TP_Android/screenshot/hello.PNG)
 
 -Connection :
 
